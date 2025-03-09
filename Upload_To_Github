@@ -1,0 +1,4 @@
+<Add the file to Git and Github>
+git add filename / git add .
+git commit -m "filename"
+git push origin main
